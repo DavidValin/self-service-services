@@ -1,0 +1,19 @@
+{
+  "name": "self-service-services",
+  "version": "1.0.0",
+  "description": "Recipe that sets up all basic services everyone needs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidValin/self-service-services.git"
+  },
+  "author": "David Valin <hola@davidvalin.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidValin/self-service-services/issues"
+  },
+  "homepage": "https://github.com/DavidValin/self-service-services#readme"
+}
